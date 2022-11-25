@@ -1,7 +1,7 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2B3C4C&stroke=fff&strokeWidth=1.5&height=300&section=header&text=MIINII🌊&fontSize=90&animation=blinking" />
 
-## 💥 (Wanna Be) FE
+## 💥 FE WannaBe
 
 ### 🪓 Skills
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flate&logo=HTML5&logoColor=white"/>
