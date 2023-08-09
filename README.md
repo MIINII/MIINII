@@ -1,7 +1,7 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2B3C4C&stroke=fff&strokeWidth=1.5&height=300&section=header&text=MIINII🌊&fontSize=90&animation=blinking" />
 
-### 🧛‍♀️ Socials
+### 👾THX👾
 <!--   <a href="https://github.com/MIINII" target="_blank">
     <img src="https://img.shields.io/badge/MIINII-181717?style=flate&logo=GitHub&logoColor=white"/>
   </a> -->
